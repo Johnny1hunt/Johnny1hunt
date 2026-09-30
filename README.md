@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ayodele John 👋
 
-<!--
-**Johnny1hunt/Johnny1hunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Data Evaluation Specialist | Front-End Developer**
+Information Systems student at the Federal University of Technology, Akure (FUTA).
 
-Here are some ideas to get you started:
+## What I do
+- 🤖 Evaluate AI output for accuracy, reasoning, tone, and safety
+- 💻 Build responsive, user-centered websites
+- 🎓 Tech Crush-certified front-end developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech & Skills
+HTML5 · CSS3 · JavaScript · React · Tailwind CSS · Git & GitHub · Figma
+
+## Connect with me
+- 📧 johnolatunji772@gmail.com
+- 🐦 X: [@Cool_joohn](https://x.com/Cool_joohn)
+
+🌱 Currently building front-end projects and open to remote work.
